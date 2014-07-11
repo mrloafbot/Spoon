@@ -8,13 +8,13 @@ class spoon(object):
 		self.favorite = false
 		self.name = "spoon"
 		self.uses = 0
-		
+
 	def action():
 		self.uses =+1
 		print "I'm using a spoon"
-		
+
 	def dip():
-		print "find some milk"
+		print "find some milk, with ceral"
 
 
 def main():
