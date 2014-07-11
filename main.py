@@ -13,7 +13,8 @@ class spoon(object):
 		self.uses =+1
 		print "I'm using a spoon"
 		
-
+	def dip():
+		print "find some milk"
 
 
 def main():
